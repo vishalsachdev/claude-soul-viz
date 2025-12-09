@@ -1,4 +1,4 @@
-\"use client\";
+"use client";
 
 import { useSelectionStore } from "@/lib/state";
 import { ViewId } from "@/content/types";
