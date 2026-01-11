@@ -241,3 +241,13 @@ lib/
 - Population breakdown visualization not animated
 
 These are intentional scaffold constraints for the MVP. The data architecture and component boundaries support future enhancements.
+
+## Current Focus
+- [ ] [Update during /session-start]
+
+## Roadmap
+- [ ] [Add planned features]
+
+## Session Log
+### 2025-12-27
+- Initial roadmap sections added
